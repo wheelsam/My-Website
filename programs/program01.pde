@@ -11,6 +11,7 @@ int hours = 0;    //keeps track of every 1/5th hour
 
 void setup() {
   size (500, 500);  //size of page
+  background(255); //white background
   frameRate(60);    //frame rates, keeps track of time
   for (int i = 0; i<12; i++){    //assigns numbers to clock
     numbers[i] = i+1;
