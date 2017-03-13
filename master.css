@@ -3,7 +3,6 @@
 /* LAYOUT */
 
 body{
-background:
 font:.8em Arial, Helvetica, sans-serif;
 letter-spacing:.07em;
 color: #FF4500;
@@ -11,14 +10,13 @@ color: #FF4500;
 
 #container{
 width:800px;
-/width:800px;
 margin-top:-8px;
 margin-left:auto;
 margin-right:auto;
 padding:0;
 border-left:8px solid #1F1F1B;
 border-right:8px solid #1F1F1B;
-background-color: blue;
+background-color: white;
 }
 
 #banner{
