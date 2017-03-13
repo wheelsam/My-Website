@@ -3,7 +3,7 @@
 /* LAYOUT */
 
 body{
-font:.8em Arial, Helvetica, sans-serif;
+font: Arial, Helvetica, sans-serif;
 letter-spacing:.07em;
 color: #FF4500;
 }
@@ -246,10 +246,6 @@ color: white;
 
 .arch_cat a,#footer a{
 color: white;
-}
-
-.arch_cat a:hover,#footer a:hover{
-color: FF4500;
 }
 
 .linkbox a{
