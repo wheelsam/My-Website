@@ -16,7 +16,7 @@ margin-right:auto;
 padding:0;
 border-left:8px solid #1F1F1B;
 border-right:8px solid #1F1F1B;
-background-color: blue;
+background-color: white;
 }
 
 #banner{
@@ -33,7 +33,6 @@ width:540px;
 #sidebar{
 float:right;
 width:200px;
-height: 800px;
 margin-right:10px;
 margin-left:-10px;
 padding:10px;
