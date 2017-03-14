@@ -14,7 +14,7 @@ void setup(){
 }
 
 void draw() {
-  background(255,0,0);
+  //background(255,0,0);
   if(time >= 0){
     if(check2()){
       assignVal();;
@@ -52,7 +52,7 @@ void createRect() {
     }
   }
 }
-/*
+
 boolean check2(){
   if(keyPressed){
     if(key == 'a')
@@ -76,7 +76,7 @@ boolean check2(){
 
 
 
-
+/*
 void makefalse(){
   for(int i = 0; i < 4; i++){
     lett[i] = false;
