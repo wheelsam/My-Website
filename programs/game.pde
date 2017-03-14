@@ -14,7 +14,7 @@ void setup(){
 }
 
 void draw() {
-  //background(255,0,0);
+  background(255,0,0);
   if(time >= 0){
     if(check2()){
       assignVal();;
