@@ -12,7 +12,7 @@ void setup(){
   assignVal();
   createRect();
 }
-/*
+
 void draw() {
   background(255,0,0);
   if(time >= 0){
@@ -52,6 +52,7 @@ void createRect() {
     }
   }
 }
+/*
 boolean check2(){
   if(keyPressed){
     if(key == 'a')
