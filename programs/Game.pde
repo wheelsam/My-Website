@@ -13,7 +13,7 @@ void setup(){
   createRect();
 }
 void draw() {
-  background(255);
+  background(255,0,0);
   if(time >= 0){
     if(check2()){
       assignVal();;
