@@ -73,10 +73,6 @@ boolean check2(){
 }
 
 
-
-
-
-/*
 void makefalse(){
   for(int i = 0; i < 4; i++){
     lett[i] = false;
@@ -92,7 +88,7 @@ void time(){
   fr++;
 }
 
-
+/*
 void letters(){
   fill(255);
   textSize(64); 
