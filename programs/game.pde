@@ -7,14 +7,14 @@ int fr = 0;
 int time = 20;
 void setup(){
   size(800,500);
-  background(255,0,0);
+  background(255);
   frameRate(60);
   assignVal();
   createRect();
 }
 
 void draw() {
-  background(255,0,0);
+  background(255);
   if(time >= 0){
     if(check2()){
       assignVal();;
