@@ -1,10 +1,11 @@
-//import java.util.Arrays;
+/*import java.util.Arrays;
 boolean[] combo = new boolean[4];
 int tem;
 boolean[] lett = new boolean[4];
 int score = 0;
 int fr = 0;
 int time = 20;
+*/
 void setup(){
   size(800,500);
   background(255,0,0);
@@ -12,6 +13,7 @@ void setup(){
   assignVal();
   createRect();
 }
+/*
 void draw() {
   background(255,0,0);
   if(time >= 0){
@@ -99,3 +101,4 @@ void letters(){
   text("D",475,300);
   text("F",675,300);
 }
+*/
