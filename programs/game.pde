@@ -78,6 +78,7 @@ void makefalse(){
     lett[i] = false;
   }
 }
+/*
 void time(){
   fill(0);
   textSize(32); 
@@ -87,8 +88,8 @@ void time(){
     time--;
   fr++;
 }
+*/
 
-/*
 void letters(){
   fill(255);
   textSize(64); 
@@ -97,4 +98,3 @@ void letters(){
   text("D",475,300);
   text("F",675,300);
 }
-*/
