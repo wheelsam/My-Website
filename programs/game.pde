@@ -1,4 +1,4 @@
-import java.util.Arrays;
+//import java.util.Arrays;
 boolean[] combo = new boolean[4];
 int tem;
 boolean[] lett = new boolean[4];
