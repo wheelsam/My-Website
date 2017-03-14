@@ -4,10 +4,10 @@ int tem;
 boolean[] lett = new boolean[4];
 int score = 0;
 int fr = 0;
-int time = 10;
+int time = 20;
 void setup(){
   size(800,500);
-  background(255);
+  background(255,0,0);
   frameRate(60);
   assignVal();
   createRect();
