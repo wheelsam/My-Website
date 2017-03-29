@@ -66,7 +66,7 @@ void draw(){
   ellipse(625,75,15,15);
   stroke(0);
   ellipse(675,75,15,15);
-  for (int i = 0; i<10; i++){
+ /* for (int i = 0; i<10; i++){
     fill(0);
     textSize(15);
     text(5+30*i,112+50*i,82);
@@ -80,7 +80,7 @@ void draw(){
   textSize(10);
   text("RESET", 960, 30);
  }
-
+*/
 void paint(){
   if (!stroke){
     noStroke();
