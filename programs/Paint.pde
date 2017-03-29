@@ -79,8 +79,8 @@ void draw(){
   text("<- Shapes and Outlines",815,80);
   textSize(10);
   text("RESET", 960, 30);
+  */
  }
-*/
 void paint(){
   if (!stroke){
     noStroke();
