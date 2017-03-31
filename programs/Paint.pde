@@ -106,7 +106,6 @@ void mouseReleased(){
   noLoop();
 }
 
-/*
 class button{
   int bxSize;
   int bx;
@@ -129,7 +128,7 @@ class button{
     fill(c);
     rect(bx,by,bxSize,bySize);
   }
-  
+  /*
   void mouseClicked(){
     if(mousePressed && mouseX < bxSize + bx && mouseX > bx && mouseY < bySize + by && mouseY > by) {
       for (int i = 0; i<17; i++){
