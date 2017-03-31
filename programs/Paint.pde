@@ -34,7 +34,7 @@ void setup(){
 void draw(){
   paint();
   stroke(0);
-  fill(255);
+  fill(0);
   rect(0,0,100,50);
   rect(0,50,100,50);
   rect(800,50,200,50);
@@ -80,7 +80,7 @@ void draw(){
   textSize(10);
   text("RESET", 960, 30);
  }
-/* 
+ 
 void paint(){
   if (!stroke){
     noStroke();
@@ -106,7 +106,7 @@ void mouseReleased(){
   noLoop();
 }
 
-
+/*
 class button{
   int bxSize;
   int bx;
