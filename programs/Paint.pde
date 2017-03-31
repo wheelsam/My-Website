@@ -7,7 +7,7 @@ color[] newColor = new color[19];
 
 void setup(){
   size(1000,600);
-  background(255);
+  background(0);
   noLoop();
   frameRate(1000);
   newColor[0] = color(#980000);
