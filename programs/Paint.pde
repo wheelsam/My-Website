@@ -30,7 +30,7 @@ void setup(){
   newColor[17] = color(255);
   newColor[18] = color(#E5DCFA);
 }
-
+/*
 void draw(){
   paint();
   stroke(0);
@@ -128,7 +128,7 @@ class button{
     fill(c);
     rect(bx,by,bxSize,bySize);
   }
-  /*
+  
   void mouseClicked(){
     if(mousePressed && mouseX < bxSize + bx && mouseX > bx && mouseY < bySize + by && mouseY > by) {
       for (int i = 0; i<17; i++){
