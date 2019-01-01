@@ -30,7 +30,7 @@ void setup(){
   newColor[17] = color(255);
   newColor[18] = color(#E5DCFA);
 }
-/*
+
 void draw(){
   paint();
   stroke(0);
@@ -105,7 +105,7 @@ void mousePressed(){
 void mouseReleased(){
   noLoop();
 }
-
+/*
 class button{
   int bxSize;
   int bx;
